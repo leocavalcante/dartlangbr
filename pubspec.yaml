@@ -1,3 +1,11 @@
 name: dartlangbr
 version: 0.1.0
 description: Exemplo de como criar e publicar pacotes de bibliotecas Dart no Pub.
+author: dartlangbr <contato@dartlangbr.com.br>
+homepage: http://dartlang.com.br/
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dev_dependencies:
+  test: any
